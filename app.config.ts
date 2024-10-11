@@ -5,7 +5,7 @@ export default defineAppConfig({
   socials: {
     twitter: '@musenz',
     github: 'robertmccallnz/content-wind',
-    mastodon: '@robertmorris'
+    mastodon: ''
   },
 
   nuxtIcon: {
